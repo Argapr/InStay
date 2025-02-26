@@ -1,4 +1,4 @@
-# cobaauth
+# InStay
 
 A new Flutter project.
 
